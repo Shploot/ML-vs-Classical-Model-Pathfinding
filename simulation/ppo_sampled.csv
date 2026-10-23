@@ -1,0 +1,3 @@
+algo,obstacles,mode,episodes,success_rate,ci_low,ci_high,collision_rate,timeout_rate,mean_steps_on_success,model_file
+PPO,1,sampled,100,0.49,0.3942183009238615,0.5865215952256586,0.49,0.02,45.795918367346935,..\models\ppo_1obs.zip
+PPO,2,sampled,100,0.42,0.327982249185113,0.5179369200110473,0.31,0.27,29.261904761904763,..\models\ppo_2obs.zip
